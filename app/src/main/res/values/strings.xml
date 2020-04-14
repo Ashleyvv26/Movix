@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movix</string>
+    <string name="api_base_url">https://api.themoviedb.org/3/</string>
+    <string name="transition_poster">poster</string>
+    <string name="transition_title">titulo</string>
+    <string name="release_date_template">Publicado: %s</string>
+    <string name="my_favorites">Mis Favoritos</string>
+    <string name="popular">Populares</string>
+    <string name="trailers">Trailers</string>
+    <string name="overview">Sinopsis</string>
+    <string name="reviews">Criticas</string>
+    <string name="favorites_empty_message">Aun no tiene nada agregado...</string>
+    <string name="search_no_results_message">No hay resultados de: </string>
+    <string name="n_a">Vacio</string>
+    <string name="search">Buscar</string>
+    <string name="ver_despues">Ver Despues</string>
+    <string name="type_here_to_begin_your_search">Escribe aquí para buscar...</string>
+</resources>
