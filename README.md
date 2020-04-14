@@ -2,11 +2,7 @@
 
 Una aplicación hecha específicamente para Android, donde se puede ver todo tipo de películas en ella, ver los trailers, sus calificaciones, fecha de estreno, tipo de géneros que estos tengan y poder agregarlos a lista de favoritos. 
 
-## Inicio
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerrequisitos
+### Pre-requisitos
 
 * Android Studio o Visual Studio
 * Smartphone con Sistema Operativo de Android
