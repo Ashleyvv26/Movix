@@ -22,6 +22,11 @@ Una aplicación hecha específicamente para Android, donde se puede ver todo tip
    1. Puede solucionarlo eliminando la carpeta `.idea` de su proyecto y luego vuelva a abrir su IDE.
    2. Asegúrese de que el proyecto fue clonado y no descargado como un archivo zip en el directorio que está utilizando. Ejemplo:
    `C:\Users\nombre\Desktop\nombre-de-la-app`
+- Si está utilizando Android Studio haga lo siguiente si no sabe clonar el proyecto:
+### Paso 1
+   ![1](https://user-images.githubusercontent.com/63436697/79188990-cedc2600-7ddd-11ea-8bfe-d05ecd153845.png)
+### Paso 2
+![2](https://user-images.githubusercontent.com/63436697/79189177-4f9b2200-7dde-11ea-9d17-959c1d3ffbdf.png)
 
 ## Ejecución
 
