@@ -5,7 +5,13 @@ import com.ashley.domain.entities.MovieEntity
 import com.ashley.domain.entities.ReviewEntity
 import com.ashley.domain.entities.VideoEntity
 
+<<<<<<< HEAD
 
+=======
+/**
+ * Created by Yossi Segev on 09/02/2018.
+ */
+>>>>>>> git3/master
 class DomainTestUtils {
 
     companion object {

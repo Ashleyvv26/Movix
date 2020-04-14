@@ -1,6 +1,12 @@
 package com.ashley.domain
 
+<<<<<<< HEAD
 
+=======
+/**
+ * Created by Yossi Segev on 06/01/2018.
+ */
+>>>>>>> git3/master
 import com.ashley.domain.common.DomainTestUtils
 import com.ashley.domain.common.DomainTestUtils.Companion.generateMovieEntityList
 import com.ashley.domain.common.TestMoviesCache

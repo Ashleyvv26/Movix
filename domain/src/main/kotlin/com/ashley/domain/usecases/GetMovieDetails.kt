@@ -7,7 +7,13 @@ import com.ashley.domain.entities.Optional
 import io.reactivex.Observable
 import java.lang.IllegalArgumentException
 
+<<<<<<< HEAD
 
+=======
+/**
+ * Created by Yossi Segev on 11/11/2017.
+ */
+>>>>>>> git3/master
 class GetMovieDetails(
         transformer: Transformer<Optional<MovieEntity>>,
         private val moviesRepository: MoviesRepository) : UseCase<Optional<MovieEntity>>(transformer) {

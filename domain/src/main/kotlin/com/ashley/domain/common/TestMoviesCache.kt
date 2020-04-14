@@ -5,6 +5,12 @@ import com.ashley.domain.entities.MovieEntity
 import com.ashley.domain.entities.Optional
 import io.reactivex.Observable
 
+<<<<<<< HEAD
+=======
+/**
+ * Created by Yossi Segev on 13/11/2017.
+ */
+>>>>>>> git3/master
 class TestMoviesCache : MoviesCache {
 
     private val movies: HashMap<Int, MovieEntity> = HashMap()

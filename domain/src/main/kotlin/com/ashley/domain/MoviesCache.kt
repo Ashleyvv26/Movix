@@ -4,7 +4,13 @@ import com.ashley.domain.entities.MovieEntity
 import com.ashley.domain.entities.Optional
 import io.reactivex.Observable
 
+<<<<<<< HEAD
 
+=======
+/**
+ * Created by Yossi Segev on 21/01/2018.
+ */
+>>>>>>> git3/master
 interface MoviesCache {
 
     fun clear()

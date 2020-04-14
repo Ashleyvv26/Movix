@@ -1,6 +1,12 @@
 package com.ashley.domain.entities
 
+<<<<<<< HEAD
 
+=======
+/**
+ * Created by Yossi Segev on 07/01/2018.
+ */
+>>>>>>> git3/master
 data class MovieDetailsEntity(
         var belongsToCollection: Any? = null,
         var budget: Int? = null,

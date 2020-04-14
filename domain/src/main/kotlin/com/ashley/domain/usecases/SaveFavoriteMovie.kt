@@ -6,7 +6,13 @@ import com.ashley.domain.entities.MovieEntity
 import io.reactivex.Observable
 import java.lang.IllegalArgumentException
 
+<<<<<<< HEAD
 
+=======
+/**
+ * Created by Yossi Segev on 21/01/2018.
+ */
+>>>>>>> git3/master
 class SaveFavoriteMovie(transformer: Transformer<Boolean>,
                         private val moviesCache: MoviesCache): UseCase<Boolean>(transformer) {
 
