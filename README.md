@@ -16,6 +16,12 @@ Una aplicación hecha específicamente para Android, donde se puede ver todo tip
 3. Instalar y/o actualizar las librerías que le recomienda Android Studio para poder utilizar la aplicación Movix.
    - En la esquina inferior derecha, las notificaciones aparecerán para su actualización o instalación de las librerías.  
    - Si no quiere utilizar su Smartphone para la aplicación, omita el inciso 3.
+   
+## Problemas con la instalación de la applicación
+- Si surgen problemas con la instación de la aplicación donde salga un aviso de "Invalid VCS root mapping" puede resolverlo de dos formas, siga los siguientes pasos: 
+   - Puede solucionarlo eliminando el archivo `vcs.xml` ubicado en la carpeta `.idea` de su proyecto y luego vuelva a abrir su IDE.
+   - Asegúrese de que el proyecto fue clonado y no descargado como un archivo zip en el directorio que está utilizando. Ejemplo:
+   `C:\Users\nombre\Desktop\nombre-de-la-app`
 
 ## Ejecución
 
