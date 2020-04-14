@@ -4,14 +4,6 @@ import com.ashley.domain.entities.Optional
 import io.reactivex.Observable
 
 
-<<<<<<< HEAD
-
-=======
-/**
- * Created by Yossi Segev on 05/01/2018.
- */
->>>>>>> git3/master
-
 abstract class Mapper<in E, T> {
     abstract fun mapFrom(from: E): T
 

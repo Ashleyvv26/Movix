@@ -5,12 +5,7 @@ import com.ashley.domain.common.Transformer
 import com.ashley.domain.entities.MovieEntity
 import io.reactivex.Observable
 
-<<<<<<< HEAD
-=======
-/**
- * Created by Yossi Segev on 11/02/2018.
- */
->>>>>>> git3/master
+
 class SearchMovie(transformer: Transformer<List<MovieEntity>>,
                   private val moviesRepository: MoviesRepository) : UseCase<List<MovieEntity>>(transformer) {
 
