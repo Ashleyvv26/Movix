@@ -18,9 +18,9 @@ Una aplicación hecha específicamente para Android, donde se puede ver todo tip
    - Si no quiere utilizar su Smartphone para la aplicación, omita el inciso 3.
    
 ## Problemas con la instalación de la applicación
-- Si surgen problemas con la instación de la aplicación donde salga un aviso de "Invalid VCS root mapping" puede resolverlo de dos formas, siga los siguientes pasos: 
-   - Puede solucionarlo eliminando el archivo `vcs.xml` ubicado en la carpeta `.idea` de su proyecto y luego vuelva a abrir su IDE.
-   - Asegúrese de que el proyecto fue clonado y no descargado como un archivo zip en el directorio que está utilizando. Ejemplo:
+- Si surgen problemas con la instalación de la aplicación donde salga un aviso de "Invalid VCS root mapping" puede resolverlo en dos formas, siga los siguientes pasos: 
+   1. Puede solucionarlo eliminando la carpeta `.idea` de su proyecto y luego vuelva a abrir su IDE.
+   2. Asegúrese de que el proyecto fue clonado y no descargado como un archivo zip en el directorio que está utilizando. Ejemplo:
    `C:\Users\nombre\Desktop\nombre-de-la-app`
 
 ## Ejecución
