@@ -20,9 +20,7 @@ import org.junit.Test
 import org.junit.runner.RunWith
 import org.mockito.Mockito.*
 
-/**
- * Created by Yossi Segev on 19/02/2018.
- */
+
 
 @Suppress("UNCHECKED_CAST")
 @RunWith(AndroidJUnit4::class)
