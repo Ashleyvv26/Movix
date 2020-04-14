@@ -4,9 +4,6 @@ import com.ashley.domain.entities.*
 import junit.framework.Assert.assertEquals
 import org.junit.Test
 
-/**
- * Created by Yossi Segev on 20/02/2018.
- */
 
 class MovieEntityMovieMapperTests {
 
